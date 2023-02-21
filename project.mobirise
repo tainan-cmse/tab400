@@ -43,7 +43,7 @@
     "imageResize": true,
     "chatbutton": {},
     "favicon": "@PROJECT_PATH@/assets/images/noun-mark-3405726.svg",
-    "mbrsiteDomain": "jroem4kbbn",
+    "mbrsiteDomain": "d91hstfaht",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -51,9 +51,18 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "uniqCompNum": 10,
-    "versionPublish": "5.5.2",
-    "screenshot": "screenshot.png"
+    "uniqCompNum": 11,
+    "versionPublish": "5.8.0",
+    "screenshot": "screenshot.png",
+    "cssOptimize": false,
+    "lazyLoad": false,
+    "pwa-switcher": true,
+    "PWA": {
+      "enabled": true,
+      "name": "",
+      "icon": "@ADDONS_PATH@/pwa-builder/assets/icons/512x512.png",
+      "themeColor": "#6592e6"
+    }
   },
   "pages": {
     "index.html": {
