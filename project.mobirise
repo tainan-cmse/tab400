@@ -43,7 +43,7 @@
     "imageResize": true,
     "chatbutton": {},
     "favicon": "@PROJECT_PATH@/assets/images/noun-mark-3405726.svg",
-    "mbrsiteDomain": "d91hstfaht",
+    "mbrsiteDomain": "8w4oojbl0n",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -58,10 +58,7 @@
     "lazyLoad": false,
     "pwa-switcher": true,
     "PWA": {
-      "enabled": true,
-      "name": "",
-      "icon": "@ADDONS_PATH@/pwa-builder/assets/icons/512x512.png",
-      "themeColor": "#6592e6"
+      "enabled": false
     }
   },
   "pages": {
